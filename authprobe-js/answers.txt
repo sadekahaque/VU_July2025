@@ -1,4 +1,4 @@
-﻿blue
+blue
 red
 green
 black

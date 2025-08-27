@@ -1,4 +1,6 @@
-{
+﻿{
   "email": "{EMAIL}",
-  "answer": "{ANSWER}"
+  "answer": "{ANSWER}",
+  "new": "12345",
+  "repeat": "12345"
 }

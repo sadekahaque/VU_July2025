@@ -34,9 +34,11 @@ def looks_success(status: int, body: str, needles: List[str]) -> bool:
 def main():
     args = parse_args()
     args = parse_args()
-    with open(args.template, "r", encoding="utf-8") as f:
-        raw_tpl = f.read()
-    words = [w.strip() for w in open(args.answers, "r", encoding="utf-8", errors="ignore") if w.strip()]
+    with open(args.template, "r", encoding="utf-8-sig") as f:
+    	raw_tpl = f.read()
+
+    words = [w.strip() for w in open(args.answers, "r", encoding="utf-8-sig", errors="ignore") if w.strip()]
+
     needles = [x.strip() for x in args.success_text.split(",") if x.strip()]
 
     s = requests.Session()
