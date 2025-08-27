@@ -9,8 +9,6 @@ A small educational tool and workflow to demonstrate **Identification & Authenti
 - `passwords.txt` — tiny sample wordlist for demos
 - `SCOPING.md` — scoping assessment (filled for Juice Shop lab)
 - `PENTEST_PLAN.md` — penetration testing plan focused on A07
-- `REPORT_TEMPLATE.md` — draft → final reporting template
-- `PRESENTATION.md` — slide outline for demo day
 - `requirements.txt` — Python deps (`requests`)
 - `.gitignore`
 
