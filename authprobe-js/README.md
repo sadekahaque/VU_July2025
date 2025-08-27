@@ -1,8 +1,8 @@
 # AuthProbe-JS — A07 Demo (Juice Shop)
 
-A small educational tool and workflow to demonstrate **Identification & Authentication Failures** (OWASP Top 10) against **OWASP Juice Shop** in a contained lab.
+**Identification & Authentication Failures** (OWASP Top 10) against **OWASP Juice Shop** in a contained lab.
 
-> ⚠️ For **lab use only**. Do not use against systems you do not own or without written permission.
+> ⚠️ For **lab use only**. 
 
 ## What this repo contains
 - `authprobe.py` — a simple login brute-force script for Juice Shop
