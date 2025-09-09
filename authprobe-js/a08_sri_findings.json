@@ -1,0 +1,74 @@
+[
+  {
+    "url": "http://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js",
+    "kind": "script",
+    "integrity": null,
+    "issues": [
+      "INSECURE_SCHEME_HTTP"
+    ]
+  },
+  {
+    "url": "http://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js",
+    "kind": "script",
+    "integrity": null,
+    "issues": [
+      "INSECURE_SCHEME_HTTP"
+    ]
+  },
+  {
+    "url": "http://127.0.0.1:3000/runtime.js",
+    "kind": "script",
+    "integrity": null,
+    "issues": [
+      "INSECURE_SCHEME_HTTP"
+    ]
+  },
+  {
+    "url": "http://127.0.0.1:3000/polyfills.js",
+    "kind": "script",
+    "integrity": null,
+    "issues": [
+      "INSECURE_SCHEME_HTTP"
+    ]
+  },
+  {
+    "url": "http://127.0.0.1:3000/vendor.js",
+    "kind": "script",
+    "integrity": null,
+    "issues": [
+      "INSECURE_SCHEME_HTTP"
+    ]
+  },
+  {
+    "url": "http://127.0.0.1:3000/main.js",
+    "kind": "script",
+    "integrity": null,
+    "issues": [
+      "INSECURE_SCHEME_HTTP"
+    ]
+  },
+  {
+    "url": "http://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css",
+    "kind": "style",
+    "integrity": null,
+    "issues": [
+      "INSECURE_SCHEME_HTTP"
+    ]
+  },
+  {
+    "url": "http://127.0.0.1:3000/styles.css",
+    "kind": "style",
+    "integrity": null,
+    "issues": [
+      "INSECURE_SCHEME_HTTP"
+    ]
+  },
+  {
+    "url": "http://127.0.0.1:3000/styles.css",
+    "kind": "style",
+    "integrity": null,
+    "issues": [
+      "INSECURE_SCHEME_HTTP"
+    ]
+  }
+]

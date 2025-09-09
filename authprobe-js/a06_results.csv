@@ -1,0 +1,31 @@
+Target,PkgName,InstalledVersion,VulnerabilityID,Severity,Title
+bkimminich/juice-shop:latest (debian 12.11),libc6,2.36-9+deb12u10,CVE-2025-4802,HIGH,glibc: static setuid binary dlopen may incorrectly search LD_LIBRARY_PATH
+Node.js,base64url,0.0.6,NSWG-ECO-428,HIGH,Out-of-bounds Read
+Node.js,braces,2.3.2,CVE-2024-4068,HIGH,braces: fails to limit the number of characters it can handle
+Node.js,crypto-js,3.3.0,CVE-2023-46233,CRITICAL,"crypto-js: PBKDF2 1,000 times weaker than specified in 1993 and 1.3M times weaker than current standard"
+Node.js,express-jwt,0.1.3,CVE-2020-15084,HIGH,Authorization bypass in express-jwt
+Node.js,http-cache-semantics,3.8.1,CVE-2022-25881,HIGH,http-cache-semantics: Regular Expression Denial of Service (ReDoS) vulnerability
+Node.js,ip,2.0.1,CVE-2024-29415,HIGH,node-ip: Incomplete fix for CVE-2023-42282
+Node.js,jsonwebtoken,0.1.0,CVE-2015-9235,CRITICAL,nodejs-jsonwebtoken: verification step bypass with an altered token
+Node.js,jsonwebtoken,0.1.0,CVE-2022-23539,HIGH,jsonwebtoken: Unrestricted key type could lead to legacy keys usagen
+Node.js,jsonwebtoken,0.1.0,NSWG-ECO-17,HIGH,Verification Bypass
+Node.js,jsonwebtoken,0.4.0,CVE-2015-9235,CRITICAL,nodejs-jsonwebtoken: verification step bypass with an altered token
+Node.js,jsonwebtoken,0.4.0,CVE-2022-23539,HIGH,jsonwebtoken: Unrestricted key type could lead to legacy keys usagen
+Node.js,jsonwebtoken,0.4.0,NSWG-ECO-17,HIGH,Verification Bypass
+Node.js,jws,0.2.6,CVE-2016-1000223,HIGH,Forgeable Public/Private Tokens
+Node.js,lodash,2.4.2,CVE-2019-10744,CRITICAL,nodejs-lodash: prototype pollution in defaultsDeep function leading to modifying properties
+Node.js,lodash,2.4.2,CVE-2018-16487,HIGH,lodash: Prototype pollution in utilities function
+Node.js,lodash,2.4.2,CVE-2021-23337,HIGH,nodejs-lodash: command injection via template
+Node.js,lodash.set,4.3.2,CVE-2020-8203,HIGH,nodejs-lodash: prototype pollution in zipObjectDeep function
+Node.js,marsdb,0.6.11,GHSA-5mrr-rgp6-x4gr,CRITICAL,Command Injection in marsdb
+Node.js,moment,2.0.0,CVE-2017-18214,HIGH,nodejs-moment: Regular expression denial of service
+Node.js,moment,2.0.0,CVE-2022-24785,HIGH,Moment.js: Path traversal  in moment.locale
+Node.js,multer,1.4.5-lts.2,CVE-2025-47935,HIGH,Multer vulnerable to Denial of Service via memory leaks from unclosed streams
+Node.js,multer,1.4.5-lts.2,CVE-2025-47944,HIGH,Multer vulnerable to Denial of Service from maliciously crafted requests
+Node.js,multer,1.4.5-lts.2,CVE-2025-48997,HIGH,multer: Multer vulnerable to Denial of Service via unhandled exception
+Node.js,multer,1.4.5-lts.2,CVE-2025-7338,HIGH,multer: Multer Denial of Service
+Node.js,sanitize-html,1.4.2,CVE-2022-25887,HIGH,sanitize-html: insecure global regular expression replacement logic may lead to ReDoS
+Node.js,vm2,3.9.17,CVE-2023-32314,CRITICAL,vm2: Sandbox Escape
+Node.js,vm2,3.9.17,CVE-2023-37466,CRITICAL,vm2: Promise handler sanitization can be bypassed allowing attackers to escape the sandbox and run arbitrary code
+Node.js,vm2,3.9.17,CVE-2023-37903,CRITICAL,vm2: custom inspect function allows attackers to escape the sandbox and run arbitrary code
+Node.js,ws,7.4.6,CVE-2024-37890,HIGH,nodejs-ws: denial of service when handling a request with many HTTP headers
